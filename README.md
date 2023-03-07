@@ -49,7 +49,7 @@ The goal of the project is to develop a tool for the early detection and prevent
 │   ├── [data_cardiovascular_risk.csv](https://github.com/Navneet2409/cardiovascular-risk-prediction/files/10660302/data_cardiovascular_risk.csv)
 ├── Problem Statement
 │
-├── Know Yoour Data
+├── Know Your Data
 │
 ├── Understanding Your Variables
 │
